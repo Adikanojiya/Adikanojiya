@@ -75,9 +75,7 @@ motto      : "Automate everything. Monitor everything.
 **💻 Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 </div>
 
 ---
@@ -216,6 +214,6 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
 
 ⭐ *"Automate everything. Monitor everything. Break nothing in production."*
 
-**[📧 Email](mailto:aditya.kanojiya2503@gmail.com)** &nbsp;•&nbsp; **[🌐 Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;•&nbsp; **[💼 LinkedIn](https://linkedin.com/in/aditya-kanojiya)**
+**[📧 Email](mailto:aditya.kanojiya2503@gmail.com)** &nbsp;•&nbsp; | **[🌐 Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;•&nbsp;
 
 </div>
