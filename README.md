@@ -33,7 +33,7 @@ motto      : "Automate everything. Monitor everything.
               Break nothing in production."
 ```
 
-📬 **aditya.kanojiya2503@gmail.com**
+📬 **aditya.kanojiya2503@gmail.com** |
 🌐 **[Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;|&nbsp;
 
 <br clear="right"/>
