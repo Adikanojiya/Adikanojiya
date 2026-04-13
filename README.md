@@ -90,7 +90,7 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
                     │  SonarQube Check   │  ◄── Code Quality & Security          │
                     │  OWASP Dep Scan    │                                        │
                     │  Docker Build      │                                        │
-                    │  Trivy Image Scan  │                                        │
+                    │  Trivy Image Scan  │                                        │                                  
                     │  DockerHub Push    │                                        │
                     └─────────┬──────────┘                                        │
                               │                                                    │
@@ -123,10 +123,10 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
 | 🔄 | [node-todo-app-cicd](https://github.com/Adikanojiya/node-todo-app-cicd) | Node.js · AWS ECS · ECR · CloudWatch | Serverless container CI/CD on AWS |
 | 📊 | [k8s-kind-voting-app](https://github.com/Adikanojiya/k8s-kind-voting-app) | Microservices · KIND · Prometheus · Grafana | Full observability stack on K8s |
 | 📝 | [django-notes-app](https://github.com/Adikanojiya/django-notes-app) | Django · MySQL · Nginx · Docker | Multi-container Docker Compose setup |
-| 🎯 | [Mini-django-notes-app](https://github.com/Adikanojiya/Mini-django-notes-app) | Django · Kubernetes · Docker | K8s Deployments + Services practice |
+| 🎯 | [Mini-django-notes-app](https://github.com/Adikanojiya/Mini-django-notes-app) | Django · Kubernetes · Docker | K8s Deployments + Services practice | 
 | 🔐 | [k8s-dashboard](https://github.com/Adikanojiya/k8s-dashboard) | K8s · RBAC · Helm · YAML | Secure admin dashboard with ClusterRoleBinding |
 | 💰 | [Expenses-Tracker-WebApp](https://github.com/Adikanojiya/Expenses-Tracker-WebApp) | Java · Spring Boot · MySQL · Docker | Full-stack Java app containerized |
-| 🌐 | [portfolio-](https://github.com/Adikanojiya/portfolio-) | HTML · KIND Cluster | Personal site hosted on Kubernetes |
+| 🌐 | [portfolio-](https://github.com/Adikanojiya/portfolio-) | HTML · KIND Cluster | Personal site hosted on Kubernetes | 
 
 ---
 
