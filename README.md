@@ -4,7 +4,7 @@
 ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
 ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
 ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
-██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║ 
+██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
 ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
 ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 ```
@@ -34,7 +34,7 @@ motto      : "Automate everything. Monitor everything.
 ```
 
 📬 **aditya.kanojiya2503@gmail.com** |
-🌐 **[Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;|&nbsp;
+🌐 **[Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;|&nbsp; 
 
 <br clear="right"/>
 
@@ -75,7 +75,9 @@ motto      : "Automate everything. Monitor everything.
 **💻 Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
 ---
@@ -90,7 +92,7 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
                     │  SonarQube Check   │  ◄── Code Quality & Security          │
                     │  OWASP Dep Scan    │                                        │
                     │  Docker Build      │                                        │
-                    │  Trivy Image Scan  │                                        │                                  
+                    │  Trivy Image Scan  │                                        │
                     │  DockerHub Push    │                                        │
                     └─────────┬──────────┘                                        │
                               │                                                    │
@@ -123,10 +125,10 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
 | 🔄 | [node-todo-app-cicd](https://github.com/Adikanojiya/node-todo-app-cicd) | Node.js · AWS ECS · ECR · CloudWatch | Serverless container CI/CD on AWS |
 | 📊 | [k8s-kind-voting-app](https://github.com/Adikanojiya/k8s-kind-voting-app) | Microservices · KIND · Prometheus · Grafana | Full observability stack on K8s |
 | 📝 | [django-notes-app](https://github.com/Adikanojiya/django-notes-app) | Django · MySQL · Nginx · Docker | Multi-container Docker Compose setup |
-| 🎯 | [Mini-django-notes-app](https://github.com/Adikanojiya/Mini-django-notes-app) | Django · Kubernetes · Docker | K8s Deployments + Services practice | 
+| 🎯 | [Mini-django-notes-app](https://github.com/Adikanojiya/Mini-django-notes-app) | Django · Kubernetes · Docker | K8s Deployments + Services practice |
 | 🔐 | [k8s-dashboard](https://github.com/Adikanojiya/k8s-dashboard) | K8s · RBAC · Helm · YAML | Secure admin dashboard with ClusterRoleBinding |
 | 💰 | [Expenses-Tracker-WebApp](https://github.com/Adikanojiya/Expenses-Tracker-WebApp) | Java · Spring Boot · MySQL · Docker | Full-stack Java app containerized |
-| 🌐 | [portfolio-](https://github.com/Adikanojiya/portfolio-) | HTML · KIND Cluster | Personal site hosted on Kubernetes | 
+| 🌐 | [portfolio-](https://github.com/Adikanojiya/portfolio-) | HTML · KIND Cluster | Personal site hosted on Kubernetes |
 
 ---
 
@@ -214,6 +216,6 @@ Developer ──► GitHub ──► Jenkins CI ──────────�
 
 ⭐ *"Automate everything. Monitor everything. Break nothing in production."*
 
-**[📧 Email](mailto:aditya.kanojiya2503@gmail.com)** &nbsp;•&nbsp; | **[🌐 Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;•&nbsp;
+**[📧 Email](mailto:aditya.kanojiya2503@gmail.com)** &nbsp;•&nbsp; **[🌐 Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;•&nbsp;
 
 </div>
