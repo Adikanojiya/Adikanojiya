@@ -34,7 +34,7 @@ motto      : "Automate everything. Monitor everything.
 ```
 
 📬 **aditya.kanojiya2503@gmail.com**
-🌐 **[Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/aditya-kanojiya)**
+🌐 **[Portfolio](https://adikanojiya.github.io/portfolio-)** &nbsp;|&nbsp;
 
 <br clear="right"/>
 
